@@ -1,8 +1,11 @@
 # Objectives
 This project analyzes MTA subway ridership and service data using API-driven datasets to uncover trends, delays, and incidents. The goal is to provide insights into how disruptions affect commuters and identify opportunities for service improvements.
 
+# Data Sources
+https://new.mta.info/open-data
+
 # Data Cleaning
-## Reformat "Date" columns for structure consistence
+## Reformat "Date" columns 
 ### <img width="874" alt="Screenshot 2024-12-14 at 11 49 40 AM" src="https://github.com/user-attachments/assets/8228be67-3f38-48a4-a957-948857963af2" />
 ### <img width="893" alt="Screenshot 2024-12-14 at 11 50 27 AM" src="https://github.com/user-attachments/assets/98c482bd-566d-4e9a-ba0e-c83d6caf1ac6" />
 ### <img width="902" alt="Screenshot 2024-12-14 at 11 50 36 AM" src="https://github.com/user-attachments/assets/557afe1d-924e-4b6b-a905-bd93b3ef8023" />
@@ -37,5 +40,29 @@ This helps keep the record consistent and accurate throughout the analysis proce
 
 ## Monthly Analysis
 ### <img width="615" alt="Screenshot 2024-12-14 at 12 06 51 PM" src="https://github.com/user-attachments/assets/d9360275-2d53-4ee1-8cfe-12255882c9ca" />
+
+# Insights and Recommendations
+## Insights
+### B Division experiences more delays than A Division.
+### Delays due to signals and track issues have been declined after the pandemic but still remained significantly.
+### The highest contributor for delays shifted to Persons on Trackbed/ Police/ Medical.
+### Line N, 6, and 2 face persistent delays due to infratructure strain. (Line 6: high delays due to passenger behavior and crime incidents + Line N, 2: heavily impacted by operational inefficients).
+### Seasonal Trend:
+#### Pre-Pandemic: peaks occurred in summer and reached low in November and December.
+#### Post-Pandemic: peaks moved to September and October -> trends became less predictable.
+## Recommendations
+### Evaluate schedules and capacity planning for B Division.
+### Prioritize investments in modernizing train infrastructure + implement sensors to predict maintenance beforehand.
+### Conduct maintenance in low traffic months.
+### Address crimes with security camera and workforce. 
+
+# References
+https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide
+https://www.thecity.nyc/2020/11/22/subway-people-on-tracks-rising-new-york-city/
+https://www.bloomberg.com/news/articles/2023-10-04/mta-details-plan-to-fix-aging-system-fight-storms-through-2044
+https://nypost.com/2021/07/14/nyc-morning-rush-still-plagued-by-mtas-archaic-faulty-signal-system/
+https://www.amny.com/nyc-transit/mta-upgrades-disrepair-cbc-report/?utm_source=chatgpt.com
+https://www.nbcnewyork.com/news/local/new-details-emerge-on-nyc-subway-safety-plan-these-6-lines-will-be-targeted-first/3566126/
+
 
 
