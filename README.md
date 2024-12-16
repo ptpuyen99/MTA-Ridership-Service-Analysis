@@ -52,9 +52,9 @@ This helps keep the record consistent and accurate throughout the analysis proce
 #### Post-Pandemic: peaks moved to September and October -> trends became less predictable.
 ## Recommendations
 ### Evaluate schedules and capacity planning for B Division.
-### Prioritize investments in modernizing train infrastructure + implement sensors to predict maintenance beforehand.
+### Prioritize investments in modernizing train infrastructure + implement IoT sensors to predict maintenance beforehand.
 ### Conduct maintenance in low traffic months.
-### Address crimes with security camera and workforce. 
+### Address crimes with more security camera and workforce on line 6. 
 
 # References
 ### https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide
