@@ -57,12 +57,12 @@ This helps keep the record consistent and accurate throughout the analysis proce
 ### Address crimes with security camera and workforce. 
 
 # References
-https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide
-https://www.thecity.nyc/2020/11/22/subway-people-on-tracks-rising-new-york-city/
-https://www.bloomberg.com/news/articles/2023-10-04/mta-details-plan-to-fix-aging-system-fight-storms-through-2044
-https://nypost.com/2021/07/14/nyc-morning-rush-still-plagued-by-mtas-archaic-faulty-signal-system/
-https://www.amny.com/nyc-transit/mta-upgrades-disrepair-cbc-report/?utm_source=chatgpt.com
-https://www.nbcnewyork.com/news/local/new-details-emerge-on-nyc-subway-safety-plan-these-6-lines-will-be-targeted-first/3566126/
+### https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide
+### https://www.thecity.nyc/2020/11/22/subway-people-on-tracks-rising-new-york-city/
+### https://www.bloomberg.com/news/articles/2023-10-04/mta-details-plan-to-fix-aging-system-fight-storms-through-2044
+### https://nypost.com/2021/07/14/nyc-morning-rush-still-plagued-by-mtas-archaic-faulty-signal-system/
+### https://www.amny.com/nyc-transit/mta-upgrades-disrepair-cbc-report/?utm_source=chatgpt.com
+### https://www.nbcnewyork.com/news/local/new-details-emerge-on-nyc-subway-safety-plan-these-6-lines-will-be-targeted-first/3566126/
 
 
 
