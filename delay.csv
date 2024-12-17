@@ -1,0 +1,1001 @@
+month,division,line,day_type,reporting_category,subcategory,delays,incident_category
+2024-10-01T00:00:00.000,A DIVISION,1,1,Crew Availability,Crew Availability,60,Other
+2024-10-01T00:00:00.000,A DIVISION,1,1,External Factors,External Debris on Roadbed,17,Track
+2024-10-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Braking,20,Signals
+2024-10-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Door-Related,43,Signals
+2024-10-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,"Fire, Smoke, Debris",30,Signals
+2024-10-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Other - CE,55,Signals
+2024-10-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Other Infrastructure,30,Signals
+2024-10-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Other - Sig,365,Signals
+2024-10-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Propulsion,77,Signals
+2024-10-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Rail and Roadbed,1,Signals
+2024-10-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Service Delivery,106,Signals
+2024-10-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,34,Signals
+2024-10-01T00:00:00.000,A DIVISION,1,1,Operating Conditions,Other Operating Environment,293,Stations and Structure
+2024-10-01T00:00:00.000,A DIVISION,1,1,Planned ROW Work,Capital Work - Other Planned ROW,29,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,1,1,Planned ROW Work,Subways Maintenance,316,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,1,1,Planned ROW Work,Work Equipment,1,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,1,1,Police & Medical,Persons on Roadbed,93,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,1,1,Police & Medical,"Public Conduct, Crime, Police Response",357,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,1,1,Police & Medical,Sick/Injured Customer,22,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,1,2,Crew Availability,Crew Availability,16,Other
+2024-10-01T00:00:00.000,A DIVISION,1,2,Infrastructure & Equipment,"Fire, Smoke, Debris",36,Signals
+2024-10-01T00:00:00.000,A DIVISION,1,2,Infrastructure & Equipment,Other - CE,8,Signals
+2024-10-01T00:00:00.000,A DIVISION,1,2,Infrastructure & Equipment,Other Internal Disruptions,4,Signals
+2024-10-01T00:00:00.000,A DIVISION,1,2,Infrastructure & Equipment,Other - Sig,41,Signals
+2024-10-01T00:00:00.000,A DIVISION,1,2,Infrastructure & Equipment,Service Delivery,7,Signals
+2024-10-01T00:00:00.000,A DIVISION,1,2,Operating Conditions,Other Operating Environment,21,Stations and Structure
+2024-10-01T00:00:00.000,A DIVISION,1,2,Planned ROW Work,Capital Work - Other Planned ROW,11,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,1,2,Planned ROW Work,Subways Maintenance,59,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,1,2,Police & Medical,Persons on Roadbed,62,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,1,2,Police & Medical,"Public Conduct, Crime, Police Response",67,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,1,2,Police & Medical,Sick/Injured Customer,7,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,2,1,Crew Availability,Crew Availability,56,Other
+2024-10-01T00:00:00.000,A DIVISION,2,1,External Factors,External Debris on Roadbed,17,Track
+2024-10-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Braking,9,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Door-Related,15,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,"Fire, Smoke, Debris",44,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Other - CE,85,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Other Infrastructure,2,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Other - Sig,236,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Propulsion,14,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Rail and Roadbed,51,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Service Delivery,47,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,26,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,1,Operating Conditions,Other Operating Environment,292,Stations and Structure
+2024-10-01T00:00:00.000,A DIVISION,2,1,Planned ROW Work,Capital Work - Other Planned ROW,31,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,2,1,Planned ROW Work,Subways Maintenance,387,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,2,1,Planned ROW Work,Work Equipment,7,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,2,1,Police & Medical,Persons on Roadbed,23,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,2,1,Police & Medical,"Public Conduct, Crime, Police Response",439,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,2,1,Police & Medical,Sick/Injured Customer,138,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,2,2,Crew Availability,Crew Availability,5,Other
+2024-10-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,Braking,5,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,Door-Related,2,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,"Fire, Smoke, Debris",12,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,Other - CE,7,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,Other Infrastructure,6,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,Other - Sig,2,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,Service Delivery,21,Signals
+2024-10-01T00:00:00.000,A DIVISION,2,2,Operating Conditions,Other Operating Environment,101,Stations and Structure
+2024-10-01T00:00:00.000,A DIVISION,2,2,Planned ROW Work,Capital Work - Other Planned ROW,25,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,2,2,Planned ROW Work,Subways Maintenance,111,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,2,2,Planned ROW Work,Work Equipment,2,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,2,2,Police & Medical,Persons on Roadbed,46,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,2,2,Police & Medical,"Public Conduct, Crime, Police Response",175,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,2,2,Police & Medical,Sick/Injured Customer,5,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,3,1,Crew Availability,Crew Availability,28,Other
+2024-10-01T00:00:00.000,A DIVISION,3,1,External Factors,External Debris on Roadbed,18,Track
+2024-10-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Braking,21,Signals
+2024-10-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Door-Related,2,Signals
+2024-10-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,"Fire, Smoke, Debris",19,Signals
+2024-10-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Other - CE,50,Signals
+2024-10-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Other Infrastructure,7,Signals
+2024-10-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Other - Sig,143,Signals
+2024-10-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Propulsion,18,Signals
+2024-10-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Rail and Roadbed,111,Signals
+2024-10-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Service Delivery,21,Signals
+2024-10-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,12,Signals
+2024-10-01T00:00:00.000,A DIVISION,3,1,Operating Conditions,Other Operating Environment,91,Stations and Structure
+2024-10-01T00:00:00.000,A DIVISION,3,1,Planned ROW Work,Capital Work - Other Planned ROW,2,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,3,1,Planned ROW Work,Subways Maintenance,45,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,3,1,Police & Medical,Persons on Roadbed,32,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,3,1,Police & Medical,"Public Conduct, Crime, Police Response",263,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,3,1,Police & Medical,Sick/Injured Customer,46,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,3,2,Crew Availability,Crew Availability,8,Other
+2024-10-01T00:00:00.000,A DIVISION,3,2,External Factors,External Debris on Roadbed,1,Track
+2024-10-01T00:00:00.000,A DIVISION,3,2,Infrastructure & Equipment,Braking,10,Signals
+2024-10-01T00:00:00.000,A DIVISION,3,2,Infrastructure & Equipment,"Fire, Smoke, Debris",2,Signals
+2024-10-01T00:00:00.000,A DIVISION,3,2,Infrastructure & Equipment,Other - CE,7,Signals
+2024-10-01T00:00:00.000,A DIVISION,3,2,Infrastructure & Equipment,Other Infrastructure,11,Signals
+2024-10-01T00:00:00.000,A DIVISION,3,2,Infrastructure & Equipment,Other - Sig,35,Signals
+2024-10-01T00:00:00.000,A DIVISION,3,2,Infrastructure & Equipment,Service Delivery,10,Signals
+2024-10-01T00:00:00.000,A DIVISION,3,2,Operating Conditions,Other Operating Environment,68,Stations and Structure
+2024-10-01T00:00:00.000,A DIVISION,3,2,Planned ROW Work,Subways Maintenance,117,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,3,2,Planned ROW Work,Work Equipment,3,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,3,2,Police & Medical,Persons on Roadbed,68,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,3,2,Police & Medical,"Public Conduct, Crime, Police Response",135,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,3,2,Police & Medical,Sick/Injured Customer,5,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,4,1,Crew Availability,Crew Availability,44,Other
+2024-10-01T00:00:00.000,A DIVISION,4,1,External Factors,External Debris on Roadbed,2,Track
+2024-10-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Braking,11,Signals
+2024-10-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Door-Related,10,Signals
+2024-10-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,"Fire, Smoke, Debris",8,Signals
+2024-10-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Other - CE,110,Signals
+2024-10-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Other Infrastructure,9,Signals
+2024-10-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Other - Sig,299,Signals
+2024-10-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Propulsion,46,Signals
+2024-10-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Rail and Roadbed,16,Signals
+2024-10-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Service Delivery,35,Signals
+2024-10-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,6,Signals
+2024-10-01T00:00:00.000,A DIVISION,4,1,Operating Conditions,Other Operating Environment,179,Stations and Structure
+2024-10-01T00:00:00.000,A DIVISION,4,1,Planned ROW Work,Capital Work - Other Planned ROW,1,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,4,1,Planned ROW Work,Subways Maintenance,86,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,4,1,Planned ROW Work,Work Equipment,3,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,4,1,Police & Medical,Persons on Roadbed,31,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,4,1,Police & Medical,"Public Conduct, Crime, Police Response",506,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,4,1,Police & Medical,Sick/Injured Customer,77,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,4,2,Crew Availability,Crew Availability,10,Other
+2024-10-01T00:00:00.000,A DIVISION,4,2,Infrastructure & Equipment,Door-Related,5,Signals
+2024-10-01T00:00:00.000,A DIVISION,4,2,Infrastructure & Equipment,"Fire, Smoke, Debris",35,Signals
+2024-10-01T00:00:00.000,A DIVISION,4,2,Infrastructure & Equipment,Other - CE,1,Signals
+2024-10-01T00:00:00.000,A DIVISION,4,2,Infrastructure & Equipment,Other - Sig,20,Signals
+2024-10-01T00:00:00.000,A DIVISION,4,2,Infrastructure & Equipment,Rail and Roadbed,20,Signals
+2024-10-01T00:00:00.000,A DIVISION,4,2,Infrastructure & Equipment,Service Delivery,7,Signals
+2024-10-01T00:00:00.000,A DIVISION,4,2,Operating Conditions,Other Operating Environment,69,Stations and Structure
+2024-10-01T00:00:00.000,A DIVISION,4,2,Planned ROW Work,Capital Work - Other Planned ROW,34,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,4,2,Planned ROW Work,Subways Maintenance,69,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,4,2,Planned ROW Work,Work Equipment,8,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,4,2,Police & Medical,Persons on Roadbed,12,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,4,2,Police & Medical,"Public Conduct, Crime, Police Response",44,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,4,2,Police & Medical,Sick/Injured Customer,12,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,5,1,Crew Availability,Crew Availability,34,Other
+2024-10-01T00:00:00.000,A DIVISION,5,1,External Factors,External Debris on Roadbed,1,Track
+2024-10-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Braking,10,Signals
+2024-10-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Door-Related,27,Signals
+2024-10-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,"Fire, Smoke, Debris",24,Signals
+2024-10-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Other - CE,66,Signals
+2024-10-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Other Infrastructure,3,Signals
+2024-10-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Other - Sig,148,Signals
+2024-10-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Propulsion,18,Signals
+2024-10-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Rail and Roadbed,44,Signals
+2024-10-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Service Delivery,22,Signals
+2024-10-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,5,Signals
+2024-10-01T00:00:00.000,A DIVISION,5,1,Operating Conditions,Other Operating Environment,105,Stations and Structure
+2024-10-01T00:00:00.000,A DIVISION,5,1,Planned ROW Work,Capital Work - Other Planned ROW,25,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,5,1,Planned ROW Work,Subways Maintenance,94,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,5,1,Planned ROW Work,Work Equipment,16,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,5,1,Police & Medical,Persons on Roadbed,12,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,5,1,Police & Medical,"Public Conduct, Crime, Police Response",316,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,5,1,Police & Medical,Sick/Injured Customer,115,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,5,2,Infrastructure & Equipment,Door-Related,1,Signals
+2024-10-01T00:00:00.000,A DIVISION,5,2,Infrastructure & Equipment,"Fire, Smoke, Debris",23,Signals
+2024-10-01T00:00:00.000,A DIVISION,5,2,Infrastructure & Equipment,Other - Sig,1,Signals
+2024-10-01T00:00:00.000,A DIVISION,5,2,Infrastructure & Equipment,Rail and Roadbed,11,Signals
+2024-10-01T00:00:00.000,A DIVISION,5,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,2,Signals
+2024-10-01T00:00:00.000,A DIVISION,5,2,Operating Conditions,Other Operating Environment,36,Stations and Structure
+2024-10-01T00:00:00.000,A DIVISION,5,2,Planned ROW Work,Capital Work - Other Planned ROW,29,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,5,2,Planned ROW Work,Subways Maintenance,3,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,5,2,Planned ROW Work,Work Equipment,2,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,5,2,Police & Medical,Persons on Roadbed,5,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,5,2,Police & Medical,"Public Conduct, Crime, Police Response",10,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,5,2,Police & Medical,Sick/Injured Customer,1,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,6,1,Crew Availability,Crew Availability,48,Other
+2024-10-01T00:00:00.000,A DIVISION,6,1,External Factors,External Debris on Roadbed,24,Track
+2024-10-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Braking,27,Signals
+2024-10-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Door-Related,117,Signals
+2024-10-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,"Fire, Smoke, Debris",150,Signals
+2024-10-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Other - CE,103,Signals
+2024-10-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Other Infrastructure,7,Signals
+2024-10-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Other Internal Disruptions,3,Signals
+2024-10-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Other - Sig,155,Signals
+2024-10-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Propulsion,117,Signals
+2024-10-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Rail and Roadbed,16,Signals
+2024-10-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Service Delivery,49,Signals
+2024-10-01T00:00:00.000,A DIVISION,6,1,Operating Conditions,Other Operating Environment,376,Stations and Structure
+2024-10-01T00:00:00.000,A DIVISION,6,1,Operating Conditions,Service Management,103,Stations and Structure
+2024-10-01T00:00:00.000,A DIVISION,6,1,Planned ROW Work,Capital Work - Other Planned ROW,72,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,6,1,Planned ROW Work,Other Planned ROW Work,1,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,6,1,Planned ROW Work,Subways Maintenance,282,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,6,1,Planned ROW Work,Work Equipment,23,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,6,1,Police & Medical,Persons on Roadbed,75,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,6,1,Police & Medical,"Public Conduct, Crime, Police Response",641,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,6,1,Police & Medical,Sick/Injured Customer,117,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,6,2,Crew Availability,Crew Availability,15,Other
+2024-10-01T00:00:00.000,A DIVISION,6,2,Infrastructure & Equipment,Door-Related,8,Signals
+2024-10-01T00:00:00.000,A DIVISION,6,2,Infrastructure & Equipment,"Fire, Smoke, Debris",43,Signals
+2024-10-01T00:00:00.000,A DIVISION,6,2,Infrastructure & Equipment,Other - CE,5,Signals
+2024-10-01T00:00:00.000,A DIVISION,6,2,Infrastructure & Equipment,Propulsion,1,Signals
+2024-10-01T00:00:00.000,A DIVISION,6,2,Infrastructure & Equipment,Service Delivery,9,Signals
+2024-10-01T00:00:00.000,A DIVISION,6,2,Operating Conditions,Other Operating Environment,95,Stations and Structure
+2024-10-01T00:00:00.000,A DIVISION,6,2,Planned ROW Work,Capital Work - Other Planned ROW,26,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,6,2,Planned ROW Work,Subways Maintenance,109,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,6,2,Planned ROW Work,Work Equipment,10,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,6,2,Police & Medical,Persons on Roadbed,17,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,6,2,Police & Medical,"Public Conduct, Crime, Police Response",71,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,6,2,Police & Medical,Sick/Injured Customer,12,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,7,1,Crew Availability,Crew Availability,68,Other
+2024-10-01T00:00:00.000,A DIVISION,7,1,External Factors,External Debris on Roadbed,7,Track
+2024-10-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Braking,2,Signals
+2024-10-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Door-Related,53,Signals
+2024-10-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,"Fire, Smoke, Debris",9,Signals
+2024-10-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Other - CE,11,Signals
+2024-10-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Other Infrastructure,106,Signals
+2024-10-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Other - Sig,23,Signals
+2024-10-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Rail and Roadbed,55,Signals
+2024-10-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Service Delivery,28,Signals
+2024-10-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Signal Modernization Capital Project,7,Signals
+2024-10-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,14,Signals
+2024-10-01T00:00:00.000,A DIVISION,7,1,Operating Conditions,Other Operating Environment,11,Stations and Structure
+2024-10-01T00:00:00.000,A DIVISION,7,1,Planned ROW Work,Capital Work - Other Planned ROW,4,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,7,1,Planned ROW Work,Subways Maintenance,682,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,7,1,Planned ROW Work,Work Equipment,10,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,7,1,Police & Medical,Persons on Roadbed,10,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,7,1,Police & Medical,"Public Conduct, Crime, Police Response",203,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,7,1,Police & Medical,Sick/Injured Customer,24,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,7,2,Crew Availability,Crew Availability,3,Other
+2024-10-01T00:00:00.000,A DIVISION,7,2,Infrastructure & Equipment,Other Infrastructure,5,Signals
+2024-10-01T00:00:00.000,A DIVISION,7,2,Infrastructure & Equipment,Other - Sig,19,Signals
+2024-10-01T00:00:00.000,A DIVISION,7,2,Infrastructure & Equipment,Service Delivery,3,Signals
+2024-10-01T00:00:00.000,A DIVISION,7,2,Infrastructure & Equipment,Signal Modernization Capital Project,1,Signals
+2024-10-01T00:00:00.000,A DIVISION,7,2,Operating Conditions,Other Operating Environment,1,Stations and Structure
+2024-10-01T00:00:00.000,A DIVISION,7,2,Planned ROW Work,Capital Work - Other Planned ROW,21,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,7,2,Planned ROW Work,Subways Maintenance,47,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,7,2,Planned ROW Work,Work Equipment,9,Subway Car
+2024-10-01T00:00:00.000,A DIVISION,7,2,Police & Medical,Persons on Roadbed,44,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,7,2,Police & Medical,"Public Conduct, Crime, Police Response",19,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,7,2,Police & Medical,Sick/Injured Customer,7,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,A,1,Crew Availability,Crew Availability,130,Other
+2024-10-01T00:00:00.000,B DIVISION,A,1,External Factors,External Agency or Utility,168,Track
+2024-10-01T00:00:00.000,B DIVISION,A,1,External Factors,External Debris on Roadbed,8,Track
+2024-10-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Braking,26,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Door-Related,24,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,"Fire, Smoke, Debris",4,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Other - CE,53,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Other Infrastructure,5,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Other - Sig,180,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Propulsion,9,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Rail and Roadbed,49,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Service Delivery,37,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,14,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,1,Operating Conditions,Other Operating Environment,115,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,A,1,Planned ROW Work,Capital Work - Other Planned ROW,4,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,A,1,Planned ROW Work,Subways Maintenance,477,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,A,1,Planned ROW Work,Work Equipment,43,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,A,1,Police & Medical,Persons on Roadbed,38,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,A,1,Police & Medical,"Public Conduct, Crime, Police Response",253,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,A,1,Police & Medical,Sick/Injured Customer,41,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,A,2,Crew Availability,Crew Availability,49,Other
+2024-10-01T00:00:00.000,B DIVISION,A,2,External Factors,External Agency or Utility,41,Track
+2024-10-01T00:00:00.000,B DIVISION,A,2,External Factors,External Debris on Roadbed,2,Track
+2024-10-01T00:00:00.000,B DIVISION,A,2,Infrastructure & Equipment,Door-Related,3,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,2,Infrastructure & Equipment,"Fire, Smoke, Debris",2,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,2,Infrastructure & Equipment,Other - CE,10,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,2,Infrastructure & Equipment,Other - Sig,35,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,2,Infrastructure & Equipment,Propulsion,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,2,Infrastructure & Equipment,Service Delivery,25,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,2,Infrastructure & Equipment,Signal Modernization Capital Project,2,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,A,2,Operating Conditions,Other Operating Environment,56,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,A,2,Planned ROW Work,Capital Work - Other Planned ROW,11,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,A,2,Planned ROW Work,Subways Maintenance,327,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,A,2,Planned ROW Work,Work Equipment,11,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,A,2,Police & Medical,Persons on Roadbed,14,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,A,2,Police & Medical,"Public Conduct, Crime, Police Response",88,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,A,2,Police & Medical,Sick/Injured Customer,6,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,B,1,Crew Availability,Crew Availability,156,Other
+2024-10-01T00:00:00.000,B DIVISION,B,1,External Factors,External Agency or Utility,1,Track
+2024-10-01T00:00:00.000,B DIVISION,B,1,External Factors,External Debris on Roadbed,7,Track
+2024-10-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Braking,40,Signals
+2024-10-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Door-Related,60,Signals
+2024-10-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,"Fire, Smoke, Debris",11,Signals
+2024-10-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Other - CE,48,Signals
+2024-10-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Other Infrastructure,1,Signals
+2024-10-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Other Internal Disruptions,2,Signals
+2024-10-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Other - Sig,287,Signals
+2024-10-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Propulsion,38,Signals
+2024-10-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Rail and Roadbed,130,Signals
+2024-10-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Service Delivery,62,Signals
+2024-10-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,61,Signals
+2024-10-01T00:00:00.000,B DIVISION,B,1,Operating Conditions,Other Operating Environment,180,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,B,1,Planned ROW Work,Capital Work - Other Planned ROW,21,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,B,1,Planned ROW Work,Insufficient Supplement Schedule,17,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,B,1,Planned ROW Work,Subways Maintenance,317,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,B,1,Planned ROW Work,Work Equipment,20,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,B,1,Police & Medical,Persons on Roadbed,40,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,B,1,Police & Medical,"Public Conduct, Crime, Police Response",317,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,B,1,Police & Medical,Sick/Injured Customer,56,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,C,1,Crew Availability,Crew Availability,100,Other
+2024-10-01T00:00:00.000,B DIVISION,C,1,External Factors,External Agency or Utility,18,Track
+2024-10-01T00:00:00.000,B DIVISION,C,1,External Factors,External Debris on Roadbed,5,Track
+2024-10-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Braking,28,Signals
+2024-10-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Door-Related,21,Signals
+2024-10-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Other - CE,33,Signals
+2024-10-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Other Infrastructure,3,Signals
+2024-10-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Other - Sig,137,Signals
+2024-10-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Propulsion,9,Signals
+2024-10-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Rail and Roadbed,49,Signals
+2024-10-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Service Delivery,29,Signals
+2024-10-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,8,Signals
+2024-10-01T00:00:00.000,B DIVISION,C,1,Operating Conditions,Other Operating Environment,192,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,C,1,Planned ROW Work,Capital Work - Other Planned ROW,6,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,C,1,Planned ROW Work,Subways Maintenance,154,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,C,1,Planned ROW Work,Work Equipment,38,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,C,1,Police & Medical,Persons on Roadbed,50,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,C,1,Police & Medical,"Public Conduct, Crime, Police Response",343,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,C,1,Police & Medical,Sick/Injured Customer,17,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,C,2,Crew Availability,Crew Availability,18,Other
+2024-10-01T00:00:00.000,B DIVISION,C,2,External Factors,External Agency or Utility,1,Track
+2024-10-01T00:00:00.000,B DIVISION,C,2,External Factors,External Debris on Roadbed,21,Track
+2024-10-01T00:00:00.000,B DIVISION,C,2,Infrastructure & Equipment,Braking,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,C,2,Infrastructure & Equipment,Other - CE,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,C,2,Infrastructure & Equipment,Other Infrastructure,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,C,2,Infrastructure & Equipment,Other - Sig,37,Signals
+2024-10-01T00:00:00.000,B DIVISION,C,2,Infrastructure & Equipment,Service Delivery,10,Signals
+2024-10-01T00:00:00.000,B DIVISION,C,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,C,2,Operating Conditions,Other Operating Environment,75,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,C,2,Planned ROW Work,Capital Work - Other Planned ROW,11,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,C,2,Planned ROW Work,Subways Maintenance,186,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,C,2,Planned ROW Work,Work Equipment,6,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,C,2,Police & Medical,Persons on Roadbed,13,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,C,2,Police & Medical,"Public Conduct, Crime, Police Response",58,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,C,2,Police & Medical,Sick/Injured Customer,5,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,D,1,Crew Availability,Crew Availability,231,Other
+2024-10-01T00:00:00.000,B DIVISION,D,1,External Factors,External Agency or Utility,2,Track
+2024-10-01T00:00:00.000,B DIVISION,D,1,Infrastructure & Equipment,Braking,5,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,1,Infrastructure & Equipment,Door-Related,38,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,1,Infrastructure & Equipment,"Fire, Smoke, Debris",11,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,1,Infrastructure & Equipment,Other - CE,61,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,1,Infrastructure & Equipment,Other Infrastructure,6,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,1,Infrastructure & Equipment,Other - Sig,269,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,1,Infrastructure & Equipment,Propulsion,40,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,1,Infrastructure & Equipment,Rail and Roadbed,145,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,1,Infrastructure & Equipment,Service Delivery,54,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,47,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,1,Operating Conditions,Other Operating Environment,155,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,D,1,Planned ROW Work,Capital Work - Other Planned ROW,4,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,D,1,Planned ROW Work,Insufficient Supplement Schedule,1,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,D,1,Planned ROW Work,Subways Maintenance,488,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,D,1,Planned ROW Work,Work Equipment,70,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,D,1,Police & Medical,Persons on Roadbed,36,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,D,1,Police & Medical,"Public Conduct, Crime, Police Response",254,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,D,1,Police & Medical,Sick/Injured Customer,33,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,D,2,Crew Availability,Crew Availability,43,Other
+2024-10-01T00:00:00.000,B DIVISION,D,2,External Factors,External Agency or Utility,1,Track
+2024-10-01T00:00:00.000,B DIVISION,D,2,Infrastructure & Equipment,Braking,12,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,2,Infrastructure & Equipment,Door-Related,6,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,2,Infrastructure & Equipment,"Fire, Smoke, Debris",1,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,2,Infrastructure & Equipment,Other - CE,1,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,2,Infrastructure & Equipment,Other Infrastructure,7,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,2,Infrastructure & Equipment,Other - Sig,43,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,2,Infrastructure & Equipment,Propulsion,1,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,2,Infrastructure & Equipment,Rail and Roadbed,12,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,2,Infrastructure & Equipment,Service Delivery,3,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,11,Signals
+2024-10-01T00:00:00.000,B DIVISION,D,2,Operating Conditions,Other Operating Environment,13,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,D,2,Planned ROW Work,Capital Work - Other Planned ROW,15,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,D,2,Planned ROW Work,Insufficient Supplement Schedule,2,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,D,2,Planned ROW Work,Subways Maintenance,153,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,D,2,Planned ROW Work,Work Equipment,6,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,D,2,Police & Medical,Persons on Roadbed,4,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,D,2,Police & Medical,"Public Conduct, Crime, Police Response",36,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,D,2,Police & Medical,Sick/Injured Customer,4,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,E,1,Crew Availability,Crew Availability,58,Other
+2024-10-01T00:00:00.000,B DIVISION,E,1,External Factors,External Agency or Utility,42,Track
+2024-10-01T00:00:00.000,B DIVISION,E,1,External Factors,External Debris on Roadbed,1,Track
+2024-10-01T00:00:00.000,B DIVISION,E,1,Infrastructure & Equipment,Braking,15,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,1,Infrastructure & Equipment,Door-Related,32,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,1,Infrastructure & Equipment,"Fire, Smoke, Debris",4,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,1,Infrastructure & Equipment,Other - CE,44,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,1,Infrastructure & Equipment,Other Infrastructure,32,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,1,Infrastructure & Equipment,Other Internal Disruptions,7,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,1,Infrastructure & Equipment,Other - Sig,200,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,1,Infrastructure & Equipment,Propulsion,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,1,Infrastructure & Equipment,Rail and Roadbed,65,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,1,Infrastructure & Equipment,Service Delivery,31,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,1,Infrastructure & Equipment,Signal Modernization Capital Project,50,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,71,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,1,Operating Conditions,Other Operating Environment,39,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,E,1,Planned ROW Work,Capital Work - Other Planned ROW,57,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,E,1,Planned ROW Work,Subways Maintenance,603,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,E,1,Planned ROW Work,Work Equipment,23,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,E,1,Police & Medical,Persons on Roadbed,37,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,E,1,Police & Medical,"Public Conduct, Crime, Police Response",242,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,E,1,Police & Medical,Sick/Injured Customer,53,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,E,2,Crew Availability,Crew Availability,7,Other
+2024-10-01T00:00:00.000,B DIVISION,E,2,Infrastructure & Equipment,Braking,3,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,2,Infrastructure & Equipment,Door-Related,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,2,Infrastructure & Equipment,"Fire, Smoke, Debris",3,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,2,Infrastructure & Equipment,Other - CE,3,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,2,Infrastructure & Equipment,Other - Sig,2,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,2,Infrastructure & Equipment,Rail and Roadbed,2,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,2,Infrastructure & Equipment,Service Delivery,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,2,Infrastructure & Equipment,Signal Modernization Capital Project,18,Signals
+2024-10-01T00:00:00.000,B DIVISION,E,2,Operating Conditions,Other Operating Environment,3,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,E,2,Planned ROW Work,Subways Maintenance,151,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,E,2,Police & Medical,Persons on Roadbed,19,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,E,2,Police & Medical,"Public Conduct, Crime, Police Response",34,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,E,2,Police & Medical,Sick/Injured Customer,5,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,F,1,Crew Availability,Crew Availability,205,Other
+2024-10-01T00:00:00.000,B DIVISION,F,1,External Factors,External Agency or Utility,13,Track
+2024-10-01T00:00:00.000,B DIVISION,F,1,External Factors,External Debris on Roadbed,11,Track
+2024-10-01T00:00:00.000,B DIVISION,F,1,Infrastructure & Equipment,Braking,54,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,1,Infrastructure & Equipment,Door-Related,5,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,1,Infrastructure & Equipment,"Fire, Smoke, Debris",8,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,1,Infrastructure & Equipment,Other - CE,45,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,1,Infrastructure & Equipment,Other Infrastructure,7,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,1,Infrastructure & Equipment,Other Internal Disruptions,36,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,1,Infrastructure & Equipment,Other - Sig,186,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,1,Infrastructure & Equipment,Propulsion,10,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,1,Infrastructure & Equipment,Rail and Roadbed,96,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,1,Infrastructure & Equipment,Service Delivery,30,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,1,Infrastructure & Equipment,Signal Modernization Capital Project,82,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,9,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,1,Operating Conditions,Other Operating Environment,119,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,F,1,Planned ROW Work,Capital Work - Other Planned ROW,164,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,F,1,Planned ROW Work,Subways Maintenance,888,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,F,1,Planned ROW Work,Work Equipment,69,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,F,1,Police & Medical,Persons on Roadbed,31,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,F,1,Police & Medical,"Public Conduct, Crime, Police Response",266,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,F,1,Police & Medical,Sick/Injured Customer,97,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,F,2,Crew Availability,Crew Availability,42,Other
+2024-10-01T00:00:00.000,B DIVISION,F,2,Infrastructure & Equipment,Braking,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,2,Infrastructure & Equipment,"Fire, Smoke, Debris",10,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,2,Infrastructure & Equipment,Other - CE,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,2,Infrastructure & Equipment,Other Internal Disruptions,8,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,2,Infrastructure & Equipment,Other - Sig,31,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,2,Infrastructure & Equipment,Rail and Roadbed,16,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,2,Infrastructure & Equipment,Service Delivery,7,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,2,Infrastructure & Equipment,Signal Modernization Capital Project,14,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,F,2,Operating Conditions,Other Operating Environment,6,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,F,2,Planned ROW Work,Capital Work - Other Planned ROW,194,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,F,2,Planned ROW Work,Subways Maintenance,211,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,F,2,Police & Medical,Persons on Roadbed,5,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,F,2,Police & Medical,"Public Conduct, Crime, Police Response",41,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,F,2,Police & Medical,Sick/Injured Customer,4,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,G,1,Crew Availability,Crew Availability,73,Other
+2024-10-01T00:00:00.000,B DIVISION,G,1,Infrastructure & Equipment,Braking,5,Signals
+2024-10-01T00:00:00.000,B DIVISION,G,1,Infrastructure & Equipment,Door-Related,9,Signals
+2024-10-01T00:00:00.000,B DIVISION,G,1,Infrastructure & Equipment,Other - CE,32,Signals
+2024-10-01T00:00:00.000,B DIVISION,G,1,Infrastructure & Equipment,Other Infrastructure,52,Signals
+2024-10-01T00:00:00.000,B DIVISION,G,1,Infrastructure & Equipment,Other Internal Disruptions,7,Signals
+2024-10-01T00:00:00.000,B DIVISION,G,1,Infrastructure & Equipment,Other - Sig,300,Signals
+2024-10-01T00:00:00.000,B DIVISION,G,1,Infrastructure & Equipment,Rail and Roadbed,25,Signals
+2024-10-01T00:00:00.000,B DIVISION,G,1,Infrastructure & Equipment,Service Delivery,36,Signals
+2024-10-01T00:00:00.000,B DIVISION,G,1,Infrastructure & Equipment,Signal Modernization Capital Project,3,Signals
+2024-10-01T00:00:00.000,B DIVISION,G,1,Operating Conditions,Other Operating Environment,57,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,G,1,Planned ROW Work,Capital Work - Other Planned ROW,176,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,G,1,Planned ROW Work,Insufficient Supplement Schedule,1,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,G,1,Planned ROW Work,Subways Maintenance,371,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,G,1,Planned ROW Work,Work Equipment,50,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,G,1,Police & Medical,Persons on Roadbed,10,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,G,1,Police & Medical,"Public Conduct, Crime, Police Response",210,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,G,1,Police & Medical,Sick/Injured Customer,8,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,G,2,Crew Availability,Crew Availability,38,Other
+2024-10-01T00:00:00.000,B DIVISION,G,2,Infrastructure & Equipment,Other - CE,2,Signals
+2024-10-01T00:00:00.000,B DIVISION,G,2,Infrastructure & Equipment,Other - Sig,20,Signals
+2024-10-01T00:00:00.000,B DIVISION,G,2,Infrastructure & Equipment,Service Delivery,10,Signals
+2024-10-01T00:00:00.000,B DIVISION,G,2,Operating Conditions,Other Operating Environment,2,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,G,2,Planned ROW Work,Subways Maintenance,9,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,G,2,Police & Medical,"Public Conduct, Crime, Police Response",15,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,A DIVISION,GS,1,Crew Availability,Crew Availability,1,Other
+2024-10-01T00:00:00.000,A DIVISION,GS,1,Infrastructure & Equipment,Other - CE,10,Signals
+2024-10-01T00:00:00.000,A DIVISION,GS,1,Infrastructure & Equipment,Service Delivery,2,Signals
+2024-10-01T00:00:00.000,A DIVISION,GS,2,Infrastructure & Equipment,Door-Related,40,Signals
+2024-10-01T00:00:00.000,A DIVISION,GS,2,Infrastructure & Equipment,Other - CE,2,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Crew Availability,Crew Availability,74,Other
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,External Factors,External Debris on Roadbed,13,Track
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Infrastructure & Equipment,Braking,17,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Infrastructure & Equipment,Door-Related,7,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Infrastructure & Equipment,"Fire, Smoke, Debris",7,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Infrastructure & Equipment,Other - CE,81,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Infrastructure & Equipment,Other Infrastructure,5,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Infrastructure & Equipment,Other Internal Disruptions,5,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Infrastructure & Equipment,Other - Sig,38,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Infrastructure & Equipment,Propulsion,15,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Infrastructure & Equipment,Rail and Roadbed,16,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Infrastructure & Equipment,Service Delivery,22,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Infrastructure & Equipment,Signal Modernization Capital Project,2,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,18,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Operating Conditions,Other Operating Environment,128,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Planned ROW Work,Capital Work - Other Planned ROW,155,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Planned ROW Work,Subways Maintenance,593,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Planned ROW Work,Work Equipment,25,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Police & Medical,Persons on Roadbed,36,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Police & Medical,"Public Conduct, Crime, Police Response",175,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,JZ,1,Police & Medical,Sick/Injured Customer,4,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,JZ,2,Crew Availability,Crew Availability,19,Other
+2024-10-01T00:00:00.000,B DIVISION,JZ,2,Infrastructure & Equipment,"Fire, Smoke, Debris",1,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,2,Infrastructure & Equipment,Other Infrastructure,1,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,2,Infrastructure & Equipment,Other Internal Disruptions,1,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,2,Infrastructure & Equipment,Other - Sig,8,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,2,Infrastructure & Equipment,Rail and Roadbed,16,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,2,Infrastructure & Equipment,Service Delivery,1,Signals
+2024-10-01T00:00:00.000,B DIVISION,JZ,2,Operating Conditions,Other Operating Environment,7,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,JZ,2,Planned ROW Work,Subways Maintenance,29,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,JZ,2,Planned ROW Work,Work Equipment,2,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,JZ,2,Police & Medical,"Public Conduct, Crime, Police Response",31,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,L,1,Crew Availability,Crew Availability,77,Other
+2024-10-01T00:00:00.000,B DIVISION,L,1,External Factors,External Debris on Roadbed,4,Track
+2024-10-01T00:00:00.000,B DIVISION,L,1,Infrastructure & Equipment,Braking,19,Signals
+2024-10-01T00:00:00.000,B DIVISION,L,1,Infrastructure & Equipment,Door-Related,2,Signals
+2024-10-01T00:00:00.000,B DIVISION,L,1,Infrastructure & Equipment,"Fire, Smoke, Debris",1,Signals
+2024-10-01T00:00:00.000,B DIVISION,L,1,Infrastructure & Equipment,Other Infrastructure,64,Signals
+2024-10-01T00:00:00.000,B DIVISION,L,1,Infrastructure & Equipment,Other Internal Disruptions,22,Signals
+2024-10-01T00:00:00.000,B DIVISION,L,1,Infrastructure & Equipment,Other - Sig,64,Signals
+2024-10-01T00:00:00.000,B DIVISION,L,1,Infrastructure & Equipment,Propulsion,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,L,1,Infrastructure & Equipment,Rail and Roadbed,28,Signals
+2024-10-01T00:00:00.000,B DIVISION,L,1,Infrastructure & Equipment,Service Delivery,35,Signals
+2024-10-01T00:00:00.000,B DIVISION,L,1,Infrastructure & Equipment,Signal Modernization Capital Project,11,Signals
+2024-10-01T00:00:00.000,B DIVISION,L,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,3,Signals
+2024-10-01T00:00:00.000,B DIVISION,L,1,Operating Conditions,Other Operating Environment,11,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,L,1,Planned ROW Work,Capital Work - Other Planned ROW,20,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,L,1,Planned ROW Work,Subways Maintenance,205,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,L,1,Police & Medical,Persons on Roadbed,13,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,L,1,Police & Medical,"Public Conduct, Crime, Police Response",102,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,L,1,Police & Medical,Sick/Injured Customer,73,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,L,2,Crew Availability,Crew Availability,33,Other
+2024-10-01T00:00:00.000,B DIVISION,L,2,Infrastructure & Equipment,Other - CE,2,Signals
+2024-10-01T00:00:00.000,B DIVISION,L,2,Infrastructure & Equipment,Other Infrastructure,60,Signals
+2024-10-01T00:00:00.000,B DIVISION,L,2,Infrastructure & Equipment,Other - Sig,12,Signals
+2024-10-01T00:00:00.000,B DIVISION,L,2,Infrastructure & Equipment,Service Delivery,10,Signals
+2024-10-01T00:00:00.000,B DIVISION,L,2,Planned ROW Work,Subways Maintenance,13,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,L,2,Police & Medical,Persons on Roadbed,1,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,L,2,Police & Medical,"Public Conduct, Crime, Police Response",25,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,M,1,Crew Availability,Crew Availability,158,Other
+2024-10-01T00:00:00.000,B DIVISION,M,1,External Factors,External Agency or Utility,4,Track
+2024-10-01T00:00:00.000,B DIVISION,M,1,External Factors,External Debris on Roadbed,35,Track
+2024-10-01T00:00:00.000,B DIVISION,M,1,Infrastructure & Equipment,Braking,14,Signals
+2024-10-01T00:00:00.000,B DIVISION,M,1,Infrastructure & Equipment,Door-Related,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,M,1,Infrastructure & Equipment,Other - CE,65,Signals
+2024-10-01T00:00:00.000,B DIVISION,M,1,Infrastructure & Equipment,Other Infrastructure,33,Signals
+2024-10-01T00:00:00.000,B DIVISION,M,1,Infrastructure & Equipment,Other Internal Disruptions,16,Signals
+2024-10-01T00:00:00.000,B DIVISION,M,1,Infrastructure & Equipment,Other - Sig,133,Signals
+2024-10-01T00:00:00.000,B DIVISION,M,1,Infrastructure & Equipment,Propulsion,6,Signals
+2024-10-01T00:00:00.000,B DIVISION,M,1,Infrastructure & Equipment,Rail and Roadbed,90,Signals
+2024-10-01T00:00:00.000,B DIVISION,M,1,Infrastructure & Equipment,Service Delivery,27,Signals
+2024-10-01T00:00:00.000,B DIVISION,M,1,Infrastructure & Equipment,Signal Modernization Capital Project,37,Signals
+2024-10-01T00:00:00.000,B DIVISION,M,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,28,Signals
+2024-10-01T00:00:00.000,B DIVISION,M,1,Operating Conditions,Other Operating Environment,71,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,M,1,Planned ROW Work,Capital Work - Other Planned ROW,57,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,M,1,Planned ROW Work,Subways Maintenance,192,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,M,1,Planned ROW Work,Work Equipment,31,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,M,1,Police & Medical,Persons on Roadbed,36,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,M,1,Police & Medical,"Public Conduct, Crime, Police Response",126,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,M,1,Police & Medical,Sick/Injured Customer,23,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,M,2,Crew Availability,Crew Availability,2,Other
+2024-10-01T00:00:00.000,B DIVISION,M,2,Infrastructure & Equipment,Other - CE,3,Signals
+2024-10-01T00:00:00.000,B DIVISION,M,2,Infrastructure & Equipment,Other - Sig,10,Signals
+2024-10-01T00:00:00.000,B DIVISION,M,2,Infrastructure & Equipment,Rail and Roadbed,1,Signals
+2024-10-01T00:00:00.000,B DIVISION,M,2,Planned ROW Work,Subways Maintenance,3,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,M,2,Planned ROW Work,Work Equipment,1,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,M,2,Police & Medical,"Public Conduct, Crime, Police Response",2,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,N,1,Crew Availability,Crew Availability,228,Other
+2024-10-01T00:00:00.000,B DIVISION,N,1,External Factors,External Agency or Utility,1,Track
+2024-10-01T00:00:00.000,B DIVISION,N,1,External Factors,External Debris on Roadbed,2,Track
+2024-10-01T00:00:00.000,B DIVISION,N,1,Infrastructure & Equipment,Braking,8,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,1,Infrastructure & Equipment,Door-Related,119,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,1,Infrastructure & Equipment,"Fire, Smoke, Debris",39,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,1,Infrastructure & Equipment,Other - CE,172,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,1,Infrastructure & Equipment,Other Infrastructure,6,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,1,Infrastructure & Equipment,Other Internal Disruptions,1,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,1,Infrastructure & Equipment,Other - Sig,256,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,1,Infrastructure & Equipment,Propulsion,152,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,1,Infrastructure & Equipment,Rail and Roadbed,193,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,1,Infrastructure & Equipment,Service Delivery,32,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,1,Infrastructure & Equipment,Signal Modernization Capital Project,1,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,9,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,1,Operating Conditions,Other Operating Environment,164,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,N,1,Planned ROW Work,Capital Work - Other Planned ROW,29,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,N,1,Planned ROW Work,Subways Maintenance,738,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,N,1,Planned ROW Work,Work Equipment,142,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,N,1,Police & Medical,Persons on Roadbed,7,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,N,1,Police & Medical,"Public Conduct, Crime, Police Response",432,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,N,1,Police & Medical,Sick/Injured Customer,42,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,N,2,Crew Availability,Crew Availability,42,Other
+2024-10-01T00:00:00.000,B DIVISION,N,2,External Factors,External Debris on Roadbed,1,Track
+2024-10-01T00:00:00.000,B DIVISION,N,2,Infrastructure & Equipment,Door-Related,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,2,Infrastructure & Equipment,"Fire, Smoke, Debris",7,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,2,Infrastructure & Equipment,Other - CE,10,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,2,Infrastructure & Equipment,Other Infrastructure,3,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,2,Infrastructure & Equipment,Other Internal Disruptions,1,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,2,Infrastructure & Equipment,Other - Sig,37,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,2,Infrastructure & Equipment,Rail and Roadbed,10,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,2,Infrastructure & Equipment,Service Delivery,18,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,2,Infrastructure & Equipment,Signal Modernization Capital Project,2,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,N,2,Operating Conditions,Other Operating Environment,14,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,N,2,Planned ROW Work,Capital Work - Other Planned ROW,12,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,N,2,Planned ROW Work,Subways Maintenance,98,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,N,2,Planned ROW Work,Work Equipment,9,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,N,2,Police & Medical,Persons on Roadbed,8,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,N,2,Police & Medical,"Public Conduct, Crime, Police Response",51,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,N,2,Police & Medical,Sick/Injured Customer,2,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Crew Availability,Crew Availability,136,Other
+2024-10-01T00:00:00.000,B DIVISION,Q,1,External Factors,External Agency or Utility,6,Track
+2024-10-01T00:00:00.000,B DIVISION,Q,1,External Factors,External Debris on Roadbed,6,Track
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Infrastructure & Equipment,Braking,6,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Infrastructure & Equipment,Door-Related,28,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Infrastructure & Equipment,"Fire, Smoke, Debris",24,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Infrastructure & Equipment,Other - CE,68,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Infrastructure & Equipment,Other Internal Disruptions,1,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Infrastructure & Equipment,Other - Sig,167,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Infrastructure & Equipment,Propulsion,70,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Infrastructure & Equipment,Rail and Roadbed,139,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Infrastructure & Equipment,Service Delivery,39,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Infrastructure & Equipment,Signal Modernization Capital Project,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,12,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Operating Conditions,Other Operating Environment,106,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Planned ROW Work,Capital Work - Other Planned ROW,3,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Planned ROW Work,Insufficient Supplement Schedule,2,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Planned ROW Work,Subways Maintenance,429,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Planned ROW Work,Work Equipment,43,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Police & Medical,Persons on Roadbed,18,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Police & Medical,"Public Conduct, Crime, Police Response",378,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,Q,1,Police & Medical,Sick/Injured Customer,61,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,Q,2,Crew Availability,Crew Availability,26,Other
+2024-10-01T00:00:00.000,B DIVISION,Q,2,External Factors,External Debris on Roadbed,9,Track
+2024-10-01T00:00:00.000,B DIVISION,Q,2,Infrastructure & Equipment,Braking,1,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,2,Infrastructure & Equipment,Door-Related,9,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,2,Infrastructure & Equipment,Other - CE,6,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,2,Infrastructure & Equipment,Other Infrastructure,5,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,2,Infrastructure & Equipment,Other - Sig,23,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,2,Infrastructure & Equipment,Service Delivery,25,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,2,Infrastructure & Equipment,Signal Modernization Capital Project,3,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,16,Signals
+2024-10-01T00:00:00.000,B DIVISION,Q,2,Operating Conditions,Other Operating Environment,9,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,Q,2,Planned ROW Work,Subways Maintenance,32,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,Q,2,Planned ROW Work,Work Equipment,15,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,Q,2,Police & Medical,Persons on Roadbed,19,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,Q,2,Police & Medical,"Public Conduct, Crime, Police Response",37,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,Q,2,Police & Medical,Sick/Injured Customer,2,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,R,1,Crew Availability,Crew Availability,122,Other
+2024-10-01T00:00:00.000,B DIVISION,R,1,External Factors,External Debris on Roadbed,1,Track
+2024-10-01T00:00:00.000,B DIVISION,R,1,Infrastructure & Equipment,Braking,16,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,1,Infrastructure & Equipment,Door-Related,24,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,1,Infrastructure & Equipment,"Fire, Smoke, Debris",65,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,1,Infrastructure & Equipment,Other - CE,69,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,1,Infrastructure & Equipment,Other Infrastructure,80,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,1,Infrastructure & Equipment,Other Internal Disruptions,10,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,1,Infrastructure & Equipment,Other - Sig,196,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,1,Infrastructure & Equipment,Propulsion,83,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,1,Infrastructure & Equipment,Rail and Roadbed,152,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,1,Infrastructure & Equipment,Service Delivery,27,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,1,Infrastructure & Equipment,Signal Modernization Capital Project,50,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,6,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,1,Operating Conditions,Other Operating Environment,94,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,R,1,Planned ROW Work,Capital Work - Other Planned ROW,25,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,R,1,Planned ROW Work,Subways Maintenance,264,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,R,1,Planned ROW Work,Work Equipment,88,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,R,1,Police & Medical,Persons on Roadbed,5,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,R,1,Police & Medical,"Public Conduct, Crime, Police Response",234,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,R,1,Police & Medical,Sick/Injured Customer,20,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,R,2,Crew Availability,Crew Availability,18,Other
+2024-10-01T00:00:00.000,B DIVISION,R,2,Infrastructure & Equipment,Braking,6,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,2,Infrastructure & Equipment,Other - CE,5,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,2,Infrastructure & Equipment,Other - Sig,18,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,2,Infrastructure & Equipment,Propulsion,1,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,2,Infrastructure & Equipment,Service Delivery,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,2,Infrastructure & Equipment,Signal Modernization Capital Project,4,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,1,Signals
+2024-10-01T00:00:00.000,B DIVISION,R,2,Operating Conditions,Other Operating Environment,10,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,R,2,Planned ROW Work,Capital Work - Other Planned ROW,18,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,R,2,Planned ROW Work,Subways Maintenance,92,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,R,2,Planned ROW Work,Work Equipment,6,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,R,2,Police & Medical,Persons on Roadbed,7,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,R,2,Police & Medical,"Public Conduct, Crime, Police Response",33,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,R,2,Police & Medical,Sick/Injured Customer,4,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,S Fkln,1,Crew Availability,Crew Availability,1,Other
+2024-10-01T00:00:00.000,B DIVISION,S Fkln,1,External Factors,External Debris on Roadbed,27,Track
+2024-10-01T00:00:00.000,B DIVISION,S Fkln,1,Infrastructure & Equipment,Door-Related,5,Signals
+2024-10-01T00:00:00.000,B DIVISION,S Fkln,1,Infrastructure & Equipment,Other - Sig,1,Signals
+2024-10-01T00:00:00.000,B DIVISION,S Fkln,1,Planned ROW Work,Subways Maintenance,3,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,S Fkln,1,Planned ROW Work,Work Equipment,6,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,S Fkln,1,Police & Medical,"Public Conduct, Crime, Police Response",52,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,S Fkln,1,Police & Medical,Sick/Injured Customer,5,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,S Fkln,2,Police & Medical,"Public Conduct, Crime, Police Response",2,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,S Rock,1,Crew Availability,Crew Availability,9,Other
+2024-10-01T00:00:00.000,B DIVISION,S Rock,1,External Factors,External Agency or Utility,114,Track
+2024-10-01T00:00:00.000,B DIVISION,S Rock,1,Infrastructure & Equipment,Door-Related,2,Signals
+2024-10-01T00:00:00.000,B DIVISION,S Rock,1,Infrastructure & Equipment,Other - Sig,24,Signals
+2024-10-01T00:00:00.000,B DIVISION,S Rock,1,Infrastructure & Equipment,Service Delivery,1,Signals
+2024-10-01T00:00:00.000,B DIVISION,S Rock,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,2,Signals
+2024-10-01T00:00:00.000,B DIVISION,S Rock,1,Operating Conditions,Other Operating Environment,2,Stations and Structure
+2024-10-01T00:00:00.000,B DIVISION,S Rock,1,Planned ROW Work,Capital Work - Other Planned ROW,4,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,S Rock,1,Planned ROW Work,Subways Maintenance,37,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,S Rock,1,Planned ROW Work,Work Equipment,1,Subway Car
+2024-10-01T00:00:00.000,B DIVISION,S Rock,1,Police & Medical,"Public Conduct, Crime, Police Response",25,Persons on Trackbed/Police/Medical
+2024-10-01T00:00:00.000,B DIVISION,S Rock,2,External Factors,External Agency or Utility,14,Track
+2024-10-01T00:00:00.000,B DIVISION,S Rock,2,Police & Medical,"Public Conduct, Crime, Police Response",1,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,1,1,Crew Availability,Crew Availability,46,Other
+2024-09-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Braking,32,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Door-Related,43,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,"Fire, Smoke, Debris",41,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Other - CE,23,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Other Internal Disruptions,104,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Other - Sig,207,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Propulsion,17,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Rail and Roadbed,122,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Service Delivery,74,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,46,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,1,Operating Conditions,Other Operating Environment,228,Stations and Structure
+2024-09-01T00:00:00.000,A DIVISION,1,1,Planned ROW Work,Capital Work - Other Planned ROW,5,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,1,1,Planned ROW Work,Subways Maintenance,277,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,1,1,Planned ROW Work,Work Equipment,8,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,1,1,Police & Medical,Persons on Roadbed,71,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,1,1,Police & Medical,"Public Conduct, Crime, Police Response",266,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,1,1,Police & Medical,Sick/Injured Customer,49,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,1,2,Crew Availability,Crew Availability,19,Other
+2024-09-01T00:00:00.000,A DIVISION,1,2,Infrastructure & Equipment,Braking,6,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,2,Infrastructure & Equipment,Door-Related,4,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,2,Infrastructure & Equipment,"Fire, Smoke, Debris",9,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,2,Infrastructure & Equipment,Other - CE,7,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,2,Infrastructure & Equipment,Other Internal Disruptions,3,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,2,Infrastructure & Equipment,Other - Sig,61,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,2,Infrastructure & Equipment,Propulsion,9,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,2,Infrastructure & Equipment,Rail and Roadbed,1,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,2,Infrastructure & Equipment,Service Delivery,1,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,6,Signals
+2024-09-01T00:00:00.000,A DIVISION,1,2,Operating Conditions,Other Operating Environment,22,Stations and Structure
+2024-09-01T00:00:00.000,A DIVISION,1,2,Planned ROW Work,Capital Work - Other Planned ROW,16,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,1,2,Planned ROW Work,Subways Maintenance,48,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,1,2,Planned ROW Work,Work Equipment,3,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,1,2,Police & Medical,Persons on Roadbed,10,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,1,2,Police & Medical,"Public Conduct, Crime, Police Response",43,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,2,1,Crew Availability,Crew Availability,45,Other
+2024-09-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Braking,38,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Door-Related,26,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,"Fire, Smoke, Debris",55,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Other - CE,40,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Other Infrastructure,16,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Other Internal Disruptions,13,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Other - Sig,215,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Propulsion,7,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Rail and Roadbed,138,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Service Delivery,27,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,5,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,1,Operating Conditions,Other Operating Environment,366,Stations and Structure
+2024-09-01T00:00:00.000,A DIVISION,2,1,Planned ROW Work,Capital Work - Other Planned ROW,1,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,2,1,Planned ROW Work,Subways Maintenance,496,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,2,1,Planned ROW Work,Work Equipment,30,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,2,1,Police & Medical,Persons on Roadbed,47,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,2,1,Police & Medical,"Public Conduct, Crime, Police Response",211,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,2,1,Police & Medical,Sick/Injured Customer,125,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,2,2,Crew Availability,Crew Availability,12,Other
+2024-09-01T00:00:00.000,A DIVISION,2,2,External Factors,External Debris on Roadbed,8,Track
+2024-09-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,Braking,1,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,Door-Related,9,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,"Fire, Smoke, Debris",6,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,Other - CE,18,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,Other Infrastructure,1,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,Other Internal Disruptions,1,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,Other - Sig,41,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,Propulsion,4,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,Rail and Roadbed,7,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,Service Delivery,45,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,19,Signals
+2024-09-01T00:00:00.000,A DIVISION,2,2,Operating Conditions,Other Operating Environment,307,Stations and Structure
+2024-09-01T00:00:00.000,A DIVISION,2,2,Planned ROW Work,Capital Work - Other Planned ROW,53,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,2,2,Planned ROW Work,Subways Maintenance,185,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,2,2,Planned ROW Work,Work Equipment,13,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,2,2,Police & Medical,Persons on Roadbed,21,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,2,2,Police & Medical,"Public Conduct, Crime, Police Response",204,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,2,2,Police & Medical,Sick/Injured Customer,32,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,3,1,Crew Availability,Crew Availability,8,Other
+2024-09-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Braking,18,Signals
+2024-09-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Door-Related,1,Signals
+2024-09-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,"Fire, Smoke, Debris",12,Signals
+2024-09-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Other - CE,13,Signals
+2024-09-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Other Internal Disruptions,10,Signals
+2024-09-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Other - Sig,149,Signals
+2024-09-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Propulsion,7,Signals
+2024-09-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Rail and Roadbed,96,Signals
+2024-09-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Service Delivery,22,Signals
+2024-09-01T00:00:00.000,A DIVISION,3,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,19,Signals
+2024-09-01T00:00:00.000,A DIVISION,3,1,Operating Conditions,Other Operating Environment,101,Stations and Structure
+2024-09-01T00:00:00.000,A DIVISION,3,1,Planned ROW Work,Capital Work - Other Planned ROW,5,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,3,1,Planned ROW Work,Subways Maintenance,57,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,3,1,Planned ROW Work,Work Equipment,12,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,3,1,Police & Medical,Persons on Roadbed,45,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,3,1,Police & Medical,"Public Conduct, Crime, Police Response",124,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,3,1,Police & Medical,Sick/Injured Customer,71,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,3,2,Infrastructure & Equipment,Door-Related,3,Signals
+2024-09-01T00:00:00.000,A DIVISION,3,2,Infrastructure & Equipment,"Fire, Smoke, Debris",11,Signals
+2024-09-01T00:00:00.000,A DIVISION,3,2,Infrastructure & Equipment,Other - CE,3,Signals
+2024-09-01T00:00:00.000,A DIVISION,3,2,Infrastructure & Equipment,Other - Sig,18,Signals
+2024-09-01T00:00:00.000,A DIVISION,3,2,Infrastructure & Equipment,Service Delivery,1,Signals
+2024-09-01T00:00:00.000,A DIVISION,3,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,1,Signals
+2024-09-01T00:00:00.000,A DIVISION,3,2,Operating Conditions,Other Operating Environment,38,Stations and Structure
+2024-09-01T00:00:00.000,A DIVISION,3,2,Planned ROW Work,Capital Work - Other Planned ROW,32,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,3,2,Planned ROW Work,Subways Maintenance,76,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,3,2,Police & Medical,Persons on Roadbed,11,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,3,2,Police & Medical,"Public Conduct, Crime, Police Response",129,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,3,2,Police & Medical,Sick/Injured Customer,11,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,4,1,Crew Availability,Crew Availability,21,Other
+2024-09-01T00:00:00.000,A DIVISION,4,1,External Factors,External Debris on Roadbed,17,Track
+2024-09-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Braking,41,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Door-Related,16,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,"Fire, Smoke, Debris",78,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Other - CE,59,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Other Infrastructure,1,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Other Internal Disruptions,1,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Other - Sig,165,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Propulsion,32,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Rail and Roadbed,110,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Service Delivery,66,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,2,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,1,Operating Conditions,Other Operating Environment,187,Stations and Structure
+2024-09-01T00:00:00.000,A DIVISION,4,1,Planned ROW Work,Subways Maintenance,119,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,4,1,Planned ROW Work,Work Equipment,26,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,4,1,Police & Medical,Persons on Roadbed,97,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,4,1,Police & Medical,"Public Conduct, Crime, Police Response",242,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,4,1,Police & Medical,Sick/Injured Customer,106,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,4,2,Crew Availability,Crew Availability,20,Other
+2024-09-01T00:00:00.000,A DIVISION,4,2,External Factors,External Debris on Roadbed,2,Track
+2024-09-01T00:00:00.000,A DIVISION,4,2,Infrastructure & Equipment,Door-Related,6,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,2,Infrastructure & Equipment,"Fire, Smoke, Debris",14,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,2,Infrastructure & Equipment,Other - CE,53,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,2,Infrastructure & Equipment,Other - Sig,14,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,2,Infrastructure & Equipment,Propulsion,1,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,2,Infrastructure & Equipment,Rail and Roadbed,2,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,2,Infrastructure & Equipment,Service Delivery,6,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,4,Signals
+2024-09-01T00:00:00.000,A DIVISION,4,2,Operating Conditions,Other Operating Environment,230,Stations and Structure
+2024-09-01T00:00:00.000,A DIVISION,4,2,Planned ROW Work,Capital Work - Other Planned ROW,59,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,4,2,Planned ROW Work,Subways Maintenance,52,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,4,2,Planned ROW Work,Work Equipment,15,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,4,2,Police & Medical,Persons on Roadbed,14,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,4,2,Police & Medical,"Public Conduct, Crime, Police Response",123,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,4,2,Police & Medical,Sick/Injured Customer,24,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,5,1,Crew Availability,Crew Availability,31,Other
+2024-09-01T00:00:00.000,A DIVISION,5,1,External Factors,External Debris on Roadbed,5,Track
+2024-09-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Braking,48,Signals
+2024-09-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Door-Related,27,Signals
+2024-09-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,"Fire, Smoke, Debris",75,Signals
+2024-09-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Other - CE,48,Signals
+2024-09-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Other Infrastructure,8,Signals
+2024-09-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Other Internal Disruptions,4,Signals
+2024-09-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Other - Sig,161,Signals
+2024-09-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Propulsion,17,Signals
+2024-09-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Rail and Roadbed,112,Signals
+2024-09-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Service Delivery,47,Signals
+2024-09-01T00:00:00.000,A DIVISION,5,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,1,Signals
+2024-09-01T00:00:00.000,A DIVISION,5,1,Operating Conditions,Other Operating Environment,141,Stations and Structure
+2024-09-01T00:00:00.000,A DIVISION,5,1,Planned ROW Work,Capital Work - Other Planned ROW,7,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,5,1,Planned ROW Work,Subways Maintenance,147,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,5,1,Planned ROW Work,Work Equipment,13,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,5,1,Police & Medical,Persons on Roadbed,75,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,5,1,Police & Medical,"Public Conduct, Crime, Police Response",192,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,5,1,Police & Medical,Sick/Injured Customer,120,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,5,2,Crew Availability,Crew Availability,10,Other
+2024-09-01T00:00:00.000,A DIVISION,5,2,External Factors,External Debris on Roadbed,2,Track
+2024-09-01T00:00:00.000,A DIVISION,5,2,Infrastructure & Equipment,"Fire, Smoke, Debris",14,Signals
+2024-09-01T00:00:00.000,A DIVISION,5,2,Infrastructure & Equipment,Other - CE,17,Signals
+2024-09-01T00:00:00.000,A DIVISION,5,2,Infrastructure & Equipment,Other - Sig,1,Signals
+2024-09-01T00:00:00.000,A DIVISION,5,2,Infrastructure & Equipment,Service Delivery,10,Signals
+2024-09-01T00:00:00.000,A DIVISION,5,2,Operating Conditions,Other Operating Environment,31,Stations and Structure
+2024-09-01T00:00:00.000,A DIVISION,5,2,Planned ROW Work,Capital Work - Other Planned ROW,14,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,5,2,Planned ROW Work,Subways Maintenance,16,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,5,2,Police & Medical,Persons on Roadbed,10,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,5,2,Police & Medical,"Public Conduct, Crime, Police Response",16,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,5,2,Police & Medical,Sick/Injured Customer,7,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,6,1,Crew Availability,Crew Availability,39,Other
+2024-09-01T00:00:00.000,A DIVISION,6,1,External Factors,External Debris on Roadbed,25,Track
+2024-09-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Braking,70,Signals
+2024-09-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Door-Related,42,Signals
+2024-09-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,"Fire, Smoke, Debris",103,Signals
+2024-09-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Other - CE,50,Signals
+2024-09-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Other Infrastructure,1,Signals
+2024-09-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Other - Sig,139,Signals
+2024-09-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Propulsion,107,Signals
+2024-09-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Rail and Roadbed,164,Signals
+2024-09-01T00:00:00.000,A DIVISION,6,1,Infrastructure & Equipment,Service Delivery,21,Signals
+2024-09-01T00:00:00.000,A DIVISION,6,1,Operating Conditions,Other Operating Environment,471,Stations and Structure
+2024-09-01T00:00:00.000,A DIVISION,6,1,Operating Conditions,Service Management,91,Stations and Structure
+2024-09-01T00:00:00.000,A DIVISION,6,1,Planned ROW Work,Capital Work - Other Planned ROW,70,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,6,1,Planned ROW Work,Subways Maintenance,217,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,6,1,Planned ROW Work,Work Equipment,33,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,6,1,Police & Medical,Persons on Roadbed,164,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,6,1,Police & Medical,"Public Conduct, Crime, Police Response",503,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,6,1,Police & Medical,Sick/Injured Customer,109,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,6,2,Crew Availability,Crew Availability,15,Other
+2024-09-01T00:00:00.000,A DIVISION,6,2,Infrastructure & Equipment,"Fire, Smoke, Debris",23,Signals
+2024-09-01T00:00:00.000,A DIVISION,6,2,Infrastructure & Equipment,Other - CE,45,Signals
+2024-09-01T00:00:00.000,A DIVISION,6,2,Infrastructure & Equipment,Other Infrastructure,5,Signals
+2024-09-01T00:00:00.000,A DIVISION,6,2,Infrastructure & Equipment,Propulsion,2,Signals
+2024-09-01T00:00:00.000,A DIVISION,6,2,Infrastructure & Equipment,Rail and Roadbed,5,Signals
+2024-09-01T00:00:00.000,A DIVISION,6,2,Infrastructure & Equipment,Service Delivery,2,Signals
+2024-09-01T00:00:00.000,A DIVISION,6,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,8,Signals
+2024-09-01T00:00:00.000,A DIVISION,6,2,Operating Conditions,Other Operating Environment,136,Stations and Structure
+2024-09-01T00:00:00.000,A DIVISION,6,2,Planned ROW Work,Capital Work - Other Planned ROW,15,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,6,2,Planned ROW Work,Subways Maintenance,176,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,6,2,Planned ROW Work,Work Equipment,9,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,6,2,Police & Medical,Persons on Roadbed,3,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,6,2,Police & Medical,"Public Conduct, Crime, Police Response",35,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,6,2,Police & Medical,Sick/Injured Customer,8,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,7,1,Crew Availability,Crew Availability,22,Other
+2024-09-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Braking,1,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Door-Related,2,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,"Fire, Smoke, Debris",89,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Other - CE,5,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Other Infrastructure,86,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Other Internal Disruptions,2,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Other - Sig,29,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Propulsion,18,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Rail and Roadbed,127,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Service Delivery,20,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Signal Modernization Capital Project,1,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,18,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,1,Operating Conditions,Other Operating Environment,28,Stations and Structure
+2024-09-01T00:00:00.000,A DIVISION,7,1,Planned ROW Work,Capital Work - Other Planned ROW,15,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,7,1,Planned ROW Work,Subways Maintenance,116,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,7,1,Planned ROW Work,Work Equipment,19,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,7,1,Police & Medical,Persons on Roadbed,11,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,7,1,Police & Medical,"Public Conduct, Crime, Police Response",146,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,7,1,Police & Medical,Sick/Injured Customer,24,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,7,2,Crew Availability,Crew Availability,1,Other
+2024-09-01T00:00:00.000,A DIVISION,7,2,Infrastructure & Equipment,Door-Related,5,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,2,Infrastructure & Equipment,"Fire, Smoke, Debris",1,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,2,Infrastructure & Equipment,Other - CE,3,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,2,Infrastructure & Equipment,Other Infrastructure,5,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,2,Infrastructure & Equipment,Other - Sig,34,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,2,Infrastructure & Equipment,Propulsion,4,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,2,Infrastructure & Equipment,Service Delivery,7,Signals
+2024-09-01T00:00:00.000,A DIVISION,7,2,Operating Conditions,Other Operating Environment,10,Stations and Structure
+2024-09-01T00:00:00.000,A DIVISION,7,2,Planned ROW Work,Capital Work - Other Planned ROW,111,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,7,2,Planned ROW Work,Subways Maintenance,40,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,7,2,Planned ROW Work,Work Equipment,1,Subway Car
+2024-09-01T00:00:00.000,A DIVISION,7,2,Police & Medical,"Public Conduct, Crime, Police Response",56,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,A DIVISION,7,2,Police & Medical,Sick/Injured Customer,7,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,B DIVISION,A,1,Crew Availability,Crew Availability,165,Other
+2024-09-01T00:00:00.000,B DIVISION,A,1,External Factors,External Agency or Utility,110,Track
+2024-09-01T00:00:00.000,B DIVISION,A,1,External Factors,External Debris on Roadbed,1,Track
+2024-09-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Braking,54,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Door-Related,21,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,"Fire, Smoke, Debris",28,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Other - CE,47,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Other Infrastructure,21,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Other - Sig,131,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Propulsion,5,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Rail and Roadbed,57,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Service Delivery,54,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Signal Modernization Capital Project,2,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,6,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,1,Operating Conditions,Other Operating Environment,113,Stations and Structure
+2024-09-01T00:00:00.000,B DIVISION,A,1,Planned ROW Work,Capital Work - Other Planned ROW,7,Subway Car
+2024-09-01T00:00:00.000,B DIVISION,A,1,Planned ROW Work,Subways Maintenance,423,Subway Car
+2024-09-01T00:00:00.000,B DIVISION,A,1,Planned ROW Work,Work Equipment,38,Subway Car
+2024-09-01T00:00:00.000,B DIVISION,A,1,Police & Medical,Persons on Roadbed,59,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,B DIVISION,A,1,Police & Medical,"Public Conduct, Crime, Police Response",251,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,B DIVISION,A,1,Police & Medical,Sick/Injured Customer,27,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,B DIVISION,A,2,Crew Availability,Crew Availability,61,Other
+2024-09-01T00:00:00.000,B DIVISION,A,2,External Factors,External Agency or Utility,37,Track
+2024-09-01T00:00:00.000,B DIVISION,A,2,Infrastructure & Equipment,Braking,1,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,2,Infrastructure & Equipment,"Fire, Smoke, Debris",3,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,2,Infrastructure & Equipment,Other - Sig,110,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,2,Infrastructure & Equipment,Propulsion,2,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,2,Infrastructure & Equipment,Rail and Roadbed,5,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,2,Infrastructure & Equipment,Service Delivery,18,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,2,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,12,Signals
+2024-09-01T00:00:00.000,B DIVISION,A,2,Operating Conditions,Other Operating Environment,34,Stations and Structure
+2024-09-01T00:00:00.000,B DIVISION,A,2,Planned ROW Work,Capital Work - Other Planned ROW,17,Subway Car
+2024-09-01T00:00:00.000,B DIVISION,A,2,Planned ROW Work,Subways Maintenance,224,Subway Car
+2024-09-01T00:00:00.000,B DIVISION,A,2,Planned ROW Work,Work Equipment,5,Subway Car
+2024-09-01T00:00:00.000,B DIVISION,A,2,Police & Medical,Persons on Roadbed,1,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,B DIVISION,A,2,Police & Medical,"Public Conduct, Crime, Police Response",86,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,B DIVISION,A,2,Police & Medical,Sick/Injured Customer,16,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,B DIVISION,B,1,Crew Availability,Crew Availability,146,Other
+2024-09-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Braking,75,Signals
+2024-09-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Door-Related,61,Signals
+2024-09-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,"Fire, Smoke, Debris",7,Signals
+2024-09-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Other - CE,100,Signals
+2024-09-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Other Infrastructure,51,Signals
+2024-09-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Other Internal Disruptions,3,Signals
+2024-09-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Other - Sig,241,Signals
+2024-09-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Propulsion,22,Signals
+2024-09-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Rail and Roadbed,65,Signals
+2024-09-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Service Delivery,92,Signals
+2024-09-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Signal Modernization Capital Project,1,Signals
+2024-09-01T00:00:00.000,B DIVISION,B,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,12,Signals
+2024-09-01T00:00:00.000,B DIVISION,B,1,Operating Conditions,Other Operating Environment,182,Stations and Structure
+2024-09-01T00:00:00.000,B DIVISION,B,1,Planned ROW Work,Capital Work - Other Planned ROW,132,Subway Car
+2024-09-01T00:00:00.000,B DIVISION,B,1,Planned ROW Work,Subways Maintenance,401,Subway Car
+2024-09-01T00:00:00.000,B DIVISION,B,1,Planned ROW Work,Work Equipment,42,Subway Car
+2024-09-01T00:00:00.000,B DIVISION,B,1,Police & Medical,Persons on Roadbed,26,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,B DIVISION,B,1,Police & Medical,"Public Conduct, Crime, Police Response",320,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,B DIVISION,B,1,Police & Medical,Sick/Injured Customer,66,Persons on Trackbed/Police/Medical
+2024-09-01T00:00:00.000,B DIVISION,C,1,Crew Availability,Crew Availability,71,Other
+2024-09-01T00:00:00.000,B DIVISION,C,1,External Factors,External Debris on Roadbed,1,Track
+2024-09-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Braking,56,Signals
+2024-09-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Door-Related,28,Signals
+2024-09-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,"Fire, Smoke, Debris",27,Signals
+2024-09-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Other - CE,59,Signals
+2024-09-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Other Infrastructure,20,Signals
+2024-09-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Other - Sig,61,Signals
+2024-09-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Propulsion,3,Signals
+2024-09-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Rail and Roadbed,37,Signals
+2024-09-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Service Delivery,36,Signals
+2024-09-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Signal Modernization Capital Project,3,Signals
+2024-09-01T00:00:00.000,B DIVISION,C,1,Infrastructure & Equipment,Train Brake Activation - Cause Unknown,3,Signals
+2024-09-01T00:00:00.000,B DIVISION,C,1,Operating Conditions,Other Operating Environment,149,Stations and Structure
