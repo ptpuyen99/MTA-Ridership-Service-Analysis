@@ -4,6 +4,16 @@ This project analyzes MTA subway ridership and service data using API-driven dat
 # Data Source
 https://new.mta.info/open-data
 
+# Data Structure
+## delay.csv: 
+Containing detailed information regarding delays, including time, division, line, day_type (weekends/ weekdays), category (reasons for delays), subcategory (specific reasons), numbers of delays.
+## ridership.csv:
+Containing estimated riderships before and after pandemic from 3/2020 to 11/2022.
+## incident_pre.csv:
+Containing the number of delays before pandemic from 1/1/2015 - 9/1/2016.
+## incident_post.csv:
+Containing the number of delays after pandemic from 9/1/2022 - 10/1/2024.
+
 # Data Cleaning
 ## Reformat "Date" columns 
 ### <img width="874" alt="Screenshot 2024-12-14 at 11 49 40 AM" src="https://github.com/user-attachments/assets/8228be67-3f38-48a4-a957-948857963af2" />
